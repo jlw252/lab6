@@ -1,0 +1,6 @@
+import cloning
+
+usr = cloning.getuser()
+
+print("Hello, " + usr + ".")
+print("Thanks for cloning my repo!"
