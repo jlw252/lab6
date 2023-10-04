@@ -1,6 +1,6 @@
-import cloning
+import os
 
-usr = cloning.getuser()
+usr = os.getlogin()
 
 print("Hello, " + usr + ".")
 print("Thanks for cloning my repository!")
