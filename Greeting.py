@@ -1,3 +1,3 @@
 name = input("Name: ")
 hobbie = input("Hobbie: ")
-print("My name is "+ name+", my hobbie is "+hobbie)
+print("Hey "+ name+", your hobbie is "+hobbie+".")
